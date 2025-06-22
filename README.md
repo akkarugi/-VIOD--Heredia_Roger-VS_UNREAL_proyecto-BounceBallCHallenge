@@ -20,7 +20,9 @@ Cada nivel está diseñado para ofrecer una progresión desafiante pero divertid
 
 <p align="center">
   <img src="screenshots/gameplay1.jpg" alt="Gameplay 1" width="400"/>
-  <img src="screenshots/gameplay2.jpg" alt="Gameplay 2" width="400"/>
+  <img src="screenshots/gameplay2.jpg" alt="Gameplay 2" width="400"/><br/><br/>
+  <img src="screenshots/pause_menu.jpg" alt="Menú de Pausa" width="500"/><br/>
+  <em>Ejemplo del menú de pausa accesible durante la partida</em>
 </p>
 
 ---
